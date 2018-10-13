@@ -48,8 +48,11 @@ public class User {
     }
 
     public boolean isOfferPublished(int offerId) {
+        if(earnList != null) {
             return this.earnList.stream()
                     .filter(earn -> earn.getOfferId() == offerId)
                     .count() > 0;
+        }
+        return false;
     }
 }
