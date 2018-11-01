@@ -6,3 +6,6 @@ and thus allowing all kind of users to "enjoy" the advertisement and getting poi
 
 view here:
 https://sharesandearn.com/
+
+about Share&Earn:
+https://www.youtube.com/watch?v=K9cufw2_pu4
